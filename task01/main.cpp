@@ -14,6 +14,9 @@ int main() {
 	cout << "sum of square matrix: " <<
 	sum_elements_up_main_diagonale(matrix, size) << endl;
 
+	cout << "sum of square matrix: " <<
+	sum_elements_down_main_diagonale(matrix, size) << endl;
+
 
 	system("pause");
 
